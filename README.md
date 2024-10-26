@@ -20,38 +20,54 @@ data-science-portfolio/
 
 ## README.md Template
 
-# Your Name - Data Science Portfolio
+# Russ Florey's - Data Science Portfolio
 ![Profile Views](https://komarev.com/ghpvc/?username=Rflorey)
 
 ## About Me
-[Your brief introduction and background in data science]
 
-## Skills
-- **Programming:** Python, SQL, R
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Tools:** Git, Jupyter, Docker
-- **Big Data:** Spark, Hadoop
-- **Databases:** PostgreSQL, MongoDB
+Principal Engineer with 20+ years of experience developing innovative solutions at the intersection of mechanical engineering and software development. I specialize in creating analysis tools and automating engineering processes using Python, .NET, and modern software development practices.
 
-## Featured Projects
 
-### 1. [Project Name]
-- Brief description
-- Key technologies used
-- Link to repository
-- Results and impact
+### 🛠 Technical Stack
+- **Programming:** Python (NumPy, Pandas, SciPy, Scikit-learn, TensorFlow), VB.NET, VBA, R
+- **Data Visualization:** Matplotlib, Plotly
+- **Engineering Software:** ANSYS, MSC ADAMs, SolidWorks, Abaqus
+- **Development Tools:** Azure DevOps, Git, Visual Studio, VS Code
+- **Analysis Expertise:** FEA, Stress Analysis, Fatigue & Damage Tolerance, Dynamic Analysis, Multi-Body Dynamics
 
-[Repeat for other projects]
+### 🔭 Current Work
+- Principal Engineer at Array Technology, focusing on structural systems analysis and software development
+- Developing AATLAS, a Python-based FEA desktop software with VB.Net framework for system-level structural analysis
+- Implementing machine learning techniques for engineering analysis optimization
+- Working on advanced modal analysis algorithms and explicit dynamic models
 
-## Certificates
-- [Relevant certifications]
+### 🌟 Notable Projects
+- Developed in-house FEA methods and algorithms that reduced tracker row design time from days to hours
+- Created automated fatigue analysis processes using Python and .NET
+- Engineered and analyzed a lifting device for NASA's James Webb Telescope testing
+- Contributed to two patents in drilling technology:
+  - Anti-Tracking Spear Points for Earth-Boring Drill Bits (US8579051B2)
+  - Erosion Resistant Fluid Passageways for Earth-Boring Tools (US7828089B2)
 
-## Contact
-- LinkedIn: [Your Profile]
-- Email: [Your Email]
-- Portfolio Website: [If applicable]
+### 📚 Education & Professional Development
+- M.S. Data Science (In Progress) - Eastern University
+- B.S. Mechanical Engineering - University of Texas at Tyler
+- ASU Machine Learning & AI MicroBootCamp Graduate
+- Licensed Professional Engineer (P.E.) in multiple states
+- Private Pilot with Multi-Engine Instrument Rating
+
+### 🤝 Let's Connect
+- I'm passionate about combining engineering principles with modern software solutions
+- Always interested in collaborating on projects involving structural analysis, automation, or machine learning
+- Open to discussing innovative approaches to engineering challenges
+
+### 📫 How to Reach Me
+- LinkedIn: [linkedin.com/in/russflorey](https://linkedin.com/in/russflorey)
+- Email: russflorey@gmail.com
+
+---
+⚡ Fun fact: Besides being an engineer, I'm also a licensed pilot with both single and multi-engine instrument ratings!
+
 
 ## .gitignore Template
 ```
