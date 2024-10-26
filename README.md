@@ -21,7 +21,7 @@ data-science-portfolio/
 ## README.md Template
 
 # Your Name - Data Science Portfolio
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Rflorey)
 
 ## About Me
 [Your brief introduction and background in data science]
